@@ -1,0 +1,2 @@
+# aws-exam
+awsのテスト。
